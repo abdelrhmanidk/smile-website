@@ -60,7 +60,7 @@ Parents/guardians can:
 We may update this policy periodically. If changes occur, we will notify users through the app or email.  
 
 ## **9. Governing Law**  
-This Privacy Policy is governed by the laws of **[Your Country]**. Any disputes will be handled in accordance with these laws.  
+This Privacy Policy is governed by the laws of **Egypt**. Any disputes will be handled in accordance with these laws.  
 
 ## **10. Contact Us**  
 For questions about this Privacy Policy, please contact us at:  
