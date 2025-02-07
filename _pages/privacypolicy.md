@@ -20,8 +20,13 @@ We may collect the following types of information:
 - No personal details (such as full name, contact details, or photos) are required from children.  
 - **We obtain verifiable parental consent before collecting any child-specific data.**  
 
-### **c. Usage Data**  
-- Device type, app interactions, and non-personal usage analytics to enhance functionality.  
+### **c. Usage Data & Analytics**  
+We use **Firebase Analytics** to collect **non-personal usage data**, such as:  
+- App interactions (e.g., features used, time spent in-app).  
+- Device type, operating system, and general performance data.  
+- Crash reports (to identify and fix bugs).  
+
+**Firebase does not collect personal information or track users for advertising purposes.**  
 
 ## **2. How We Use the Information**  
 We use collected information to:  
@@ -34,10 +39,13 @@ We use collected information to:
 🔒 We implement industry-standard security measures to protect your information.  
 🚫 We **do not sell, trade, or share** personal data with third parties.  
 🔐 Only **parents and guardians** have access to their child’s data.  
-📅 We retain data only as long as necessary to provide services. Parents can request data deletion, and we will securely erase all data within **[X days]**.  
+📅 We retain data only as long as necessary to provide services. Parents can request data deletion, and we will securely erase all data within **30 days**.  
 
-## **4. Third-Party Services**  
-Our app may use third-party services (such as analytics or cloud storage) that adhere to strict privacy standards. These services **do not collect personal data from children.**  
+## **4. Firebase & Third-Party Services**  
+We use **Google Firebase** to enhance app functionality. Firebase collects **anonymous analytics** to improve performance but **does not store personal data** or track users for advertising.  
+
+For more details, please review:  
+🔗 **[Firebase Privacy Policy](https://firebase.google.com/support/privacy)**  
 
 ## **5. Children's Privacy, COPPA, & GDPR Compliance**  
 Our app is designed for children and complies with the **Children’s Online Privacy Protection Act (COPPA)** and **General Data Protection Regulation (GDPR) (if applicable in the EEA).** We:  
@@ -48,7 +56,7 @@ Our app is designed for children and complies with the **Children’s Online Pri
 
 ## **6. Location Data & Cookies**  
 📍 **Location Data:** We do **not** collect or store any precise location data.  
-🍪 **Cookies & Tracking:** Our app may use analytics tools to improve performance. Users can manage cookie preferences through their device settings.  
+🍪 **Cookies & Tracking:** We use Firebase Analytics for app performance tracking. Users can disable analytics tracking in their device settings.  
 
 ## **7. Parental Controls & Data Access**  
 Parents/guardians can:  
@@ -60,7 +68,7 @@ Parents/guardians can:
 We may update this policy periodically. If changes occur, we will notify users through the app or email.  
 
 ## **9. Governing Law**  
-This Privacy Policy is governed by the laws of **Egypt**. Any disputes will be handled in accordance with these laws.  
+This Privacy Policy is governed by the laws of **Egypt** (or any other applicable country). Any disputes will be handled in accordance with these laws.  
 
 ## **10. Contact Us**  
 For questions about this Privacy Policy, please contact us at:  
