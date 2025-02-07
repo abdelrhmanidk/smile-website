@@ -36,7 +36,7 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-    - title                                 : AI-Powered Assistance
+  - title                                 : AI-Powered Assistance
     description                           : Utilizes AI to enhance communication, learning, and engagement for children with autism.
     fontawesome_icon_name                 : brain
 
