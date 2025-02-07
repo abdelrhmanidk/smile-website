@@ -4,57 +4,64 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# **Privacy Policy**  
+**Effective Date:** 7 Feb 2025  
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**AI Care for Autism** ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application (the "App").  
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## **1. Information We Collect**  
+We may collect the following types of information:  
 
-<br>
+### **a. Personal Information**  
+- Name, email address, or other identifiers (only if provided by parents/guardians for account setup).  
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+### **b. Child-Specific Data**  
+- Custom preferences, interaction data, and progress reports to improve the app experience.  
+- No personal details (such as full name, contact details, or photos) are required from children.  
+- **We obtain verifiable parental consent before collecting any child-specific data.**  
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### **c. Usage Data**  
+- Device type, app interactions, and non-personal usage analytics to enhance functionality.  
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## **2. How We Use the Information**  
+We use collected information to:  
+✔ Personalize learning experiences based on the child’s needs.  
+✔ Improve AI models for better assistance.  
+✔ Provide parents with insights into their child’s progress.  
+✔ Ensure a safe and secure app experience.  
 
-<br>
+## **3. Data Retention & Security**  
+🔒 We implement industry-standard security measures to protect your information.  
+🚫 We **do not sell, trade, or share** personal data with third parties.  
+🔐 Only **parents and guardians** have access to their child’s data.  
+📅 We retain data only as long as necessary to provide services. Parents can request data deletion, and we will securely erase all data within **[X days]**.  
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## **4. Third-Party Services**  
+Our app may use third-party services (such as analytics or cloud storage) that adhere to strict privacy standards. These services **do not collect personal data from children.**  
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## **5. Children's Privacy, COPPA, & GDPR Compliance**  
+Our app is designed for children and complies with the **Children’s Online Privacy Protection Act (COPPA)** and **General Data Protection Regulation (GDPR) (if applicable in the EEA).** We:  
+✔ Do not collect personal data without **verifiable parental consent.**  
+✔ Provide full control to parents over their child’s information.  
+✔ Do not display ads or external links within the app.  
+✔ Offer **GDPR rights** such as access, correction, deletion, and portability for European users.  
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## **6. Location Data & Cookies**  
+📍 **Location Data:** We do **not** collect or store any precise location data.  
+🍪 **Cookies & Tracking:** Our app may use analytics tools to improve performance. Users can manage cookie preferences through their device settings.  
 
-<br>
+## **7. Parental Controls & Data Access**  
+Parents/guardians can:  
+🔹 Request data deletion at any time.  
+🔹 Modify or review their child’s progress data.  
+🔹 Contact us for any privacy concerns.  
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## **8. Changes to This Policy**  
+We may update this policy periodically. If changes occur, we will notify users through the app or email.  
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## **9. Governing Law**  
+This Privacy Policy is governed by the laws of **[Your Country]**. Any disputes will be handled in accordance with these laws.  
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## **10. Contact Us**  
+For questions about this Privacy Policy, please contact us at:  
+📧 **abdelrhmanbdlhlm@gmail.com**  
