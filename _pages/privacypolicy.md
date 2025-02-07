@@ -7,7 +7,7 @@ include_in_header: false
 # **Privacy Policy**  
 **Effective Date:** 7 Feb 2025  
 
-**AI Care for Autism** ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application (the "App").  
+**Smile** ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application (the "App").  
 
 ## **1. Information We Collect**  
 We may collect the following types of information:  
